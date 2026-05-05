@@ -362,7 +362,7 @@ comment:
       clientSecret: bf7eef38e56df8adbc34d2205c18aa296eb8c4a8 # GitHub Application Client Secret
       repo: my-blog-site-comments # GitHub repository
       owner: sx349 # GitHub repository owner
-      proxy: # GitHub repository proxy
+      proxy: https://cors-anywhere.azm.workers.dev/https://github.com/login/oauth/access_token # GitHub repository proxy
 # COMMENT <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 
